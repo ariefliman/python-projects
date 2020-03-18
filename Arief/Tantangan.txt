@@ -1,0 +1,5 @@
+# SOAL TANTANGAN
+Arief
+
+jawab = karena adanya perbedaan Version Python, Pada Python versi 2 dia belum ada syntax input() namun adanya syntax raw_input()
+Pada Python versi 3 raw_input() tersebut telah di modifikasi menjadi input() Oleh karena perbedaan itu terjadinya error
